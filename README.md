@@ -1,7 +1,5 @@
 # BCB/GDCB/ME 585x Lecture: Introduction to MATLAB
 
-Materials for the *Introduction to Biopython, Jupyter, and Github* section of the Programming Bootcamp hosted by the [Predictive Plant Phenomics (P3) NRT program][p3-landing] on August 7-10, 2018.  These workshops are intended as a gentle introduction for those who have little to no experience in R, Python, and UNIX.  There are four parts to this workshop:
-
 Materials for the *Introduction to MATLAB* lecture for Iowa State University's BCB/GDCB/ME 585x: Fundamentals of Predictive Plant Phenomics class.  
 
 See [here][p3-workshops] for other introductory workshops offered by P3 in the past.
