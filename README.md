@@ -7,7 +7,7 @@ Materials for the *Introduction to MATLAB* lecture for Iowa State University's B
 * [Functions](notebooks/p3.matlab.fall2018-02.ipynb)
 * [Use Case Study: Identifying Diseased Plants](notebooks/p3.matlab.fall2018-03.ipynb)
 * [A Brief Introduction to Machine Learning](notebooks/p3.matlab.fall2018-04.ipynb)
-* [Next Steps](notebooksp3.matlab.fall2018-05.ipynb)
+* [Next Steps](notebooks/p3.matlab.fall2018-05.ipynb)
 
 See [here][p3-workshops] for other introductory workshops offered by P3 in the past.
 
