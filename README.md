@@ -1,6 +1,13 @@
 # BCB/GDCB/ME 585x Lecture: Introduction to MATLAB
 
-Materials for the *Introduction to MATLAB* lecture for Iowa State University's BCB/GDCB/ME 585x: Fundamentals of Predictive Plant Phenomics class.  
+Materials for the *Introduction to MATLAB* lecture for Iowa State University's BCB/GDCB/ME 585x: Fundamentals of Predictive Plant Phenomics class.  There are 6 parts:
+
+* [Introduction](notebooks/p3.matlab.fall2018-00.ipynb)
+* [Basic MATLAB](notebooks/p3.matlab.fall2018-01.ipynb)
+* [Functions](notebooks/p3.matlab.fall2018-02.ipynb)
+* [Use Case Study: Identifying Diseased Plants](notebooks/p3.matlab.fall2018-03.ipynb)
+* [A Brief Introduction to Machine Learning](notebooks/p3.matlab.fall2018-04.ipynb)
+* [Next Steps](notebooksp3.matlab.fall2018-05.ipynb)
 
 See [here][p3-workshops] for other introductory workshops offered by P3 in the past.
 
